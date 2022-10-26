@@ -23,7 +23,7 @@ Audio scripts would need to be formatted to a common industry standard, such as 
         "speaker 2": { "gender": "male" }
     ],
     "target-conversation": [
-        "speaker 1": "Excuse me, mister. Do you understand Latin?",
+        "speaker 1": "Excuse me, sir. Do you understand Latin?",
         "speaker 2": "Hi. Sorry, I don't understand.",
         "speaker 1": "Oh. Are you American?",
         "speaker 2": "Yes, ma'am. Do you speak English?",
@@ -33,7 +33,7 @@ Audio scripts would need to be formatted to a common industry standard, such as 
         ...
 ```
 
-This script generating progam _might_ take some structure, like the above, and generate iteritive vocabulary scripts to go over clear sylabic pronounciation breakdowns, helping the listener acquire an ear for the language and allowing pauses to give the student chances to engage with the speakers in the audio recording: "-ne. -ne. -gisne. -gisne. Intele-. Intelegisne? Do you understand? Intelegisne?"
+This script generating progam _might_ take some structure, like the above, and generate iteritive vocabulary scripts to go over clear sylabic pronounciation breakdowns, helping the listener acquire an ear for the language and allowing pauses to give the student chances to engage with the speakers in the audio recording: "-ne. -ne. -gisne. -gisne. Intele-. Intelegisne? Say, 'Do you understand?' Intelegisne?"
 
 Another tool might be used to generate an audio recording inventory list. Repeated phrases can be recorded once and used throughout the course and future courses, cut together with the correct pause time for a generated lesson audio file.
 
